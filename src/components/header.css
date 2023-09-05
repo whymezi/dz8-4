@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px auto 50px;
+    font-size: 20px;
+    font-family: 'Montserrat';
+}
